@@ -4,6 +4,10 @@ An Excel-based salary analysis project built using **32,000+ job listings** to e
 
 The goal of this project was to turn a large, raw dataset into an interactive dashboard that makes it easier to answer practical questions about the job market.
 
+## Dashboard Preview
+
+![Excel Salary Dashboard](project_thumbnail.png)
+
 ## Project Overview
 
 This project analyzes job listings based on:
@@ -81,11 +85,7 @@ Key Excel concepts used:
 * Formulas
 * KPI calculations
 * Interactive dashboard design
-
-## Dashboard Preview
-
-![Excel Salary Dashboard](project_thumbnail.png)
-
+  
 ## Project Takeaways
 
 This was my first mini-project focused on applying Excel to a real-world dataset rather than working with small practice tables.
